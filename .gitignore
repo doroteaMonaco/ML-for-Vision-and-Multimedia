@@ -1,0 +1,12 @@
+/data
+/lab lessions.pdf
+
+# Datasets
+/LAB3/archive
+/LAB4/dogs-vs-cats
+/LAB4/catsvsdogs_log
+/LAB5/Houses-dataset
+/LAB6/SpeechCommands
+
+# Trained models
+*.pth

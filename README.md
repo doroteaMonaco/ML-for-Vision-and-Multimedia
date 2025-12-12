@@ -44,6 +44,11 @@ This repository contains the laboratory materials for the **Machine Learning for
 - **Description**: Keyword spotting in audio signals
 - **Topics**: Audio processing, spectrograms, CNN for audio classification
 
+### 🎄 LAB7: Christmas GAN
+- **Main File**: `Lab7_Christmas_GAN_Pytorch_traccia.ipynb`
+- **Description**: Generative Adversarial Network (GAN) for generating Christmas tree images
+- **Topics**: GAN architecture, generator/discriminator training, image generation, adversarial learning
+
 ## Requirements
 
 - Python 3.7+
@@ -64,7 +69,7 @@ pip install torch torchvision numpy pandas matplotlib scikit-learn tensorboard l
 
 1. Clone the repository
 2. Install the dependencies
-3. Open the Jupyter notebooks in order (LAB1 → LAB6)
+3. Open the Jupyter notebooks in order (LAB1 → LAB7)
 4. Follow the instructions and exercises within each notebook
 
 ## Directory Structure
@@ -88,6 +93,8 @@ Labs/
 │   └── LAB5.ipynb
 ├── LAB6/
 │   └── ml4vmm26_lab06_audio_keyword_spotting_assignment.ipynb
+├── LAB7/
+│   └── Lab7_Christmas_GAN_Pytorch_traccia.ipynb
 └── README.md
 ```
 

@@ -1,0 +1,31 @@
+# Dataset folder - too large for git
+Christmas Tree/
+Christmas Tree-20211209T211340Z-001/
+
+# PyTorch model checkpoints
+*.pth
+*.pt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
